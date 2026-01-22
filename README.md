@@ -1,6 +1,7 @@
 # Blackjack React Native Game
 
 A fully functional Blackjack card game built with React Native and Expo, featuring authentic card shuffling and a polished UI.
+Made as a personal project to learn the "art" of card counting.
 
 ## Features
 
